@@ -1,2 +1,2 @@
-#Pertemuan 1 Perkenalan dengan bahasa pemrograman Java
+- Pertemuan 1 Perkenalan dengan bahasa pemrograman Java
 ------------
